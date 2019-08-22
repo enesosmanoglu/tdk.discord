@@ -1,0 +1,17 @@
+{
+  "name": "tdk.discord",
+  "version": "0.1",
+  "description": "TDK Discord Bot",
+  "main": "index.js",
+  "author": "Enes Osmanoğlu",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "license": "ISC"
+}

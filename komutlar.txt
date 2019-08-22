@@ -1,0 +1,2 @@
+**/tdk** *kelime*    `=> Belirtilen kelimenin anlamını gösterir.`
+**/köken** *kelime*    `=> Belirtilen kelimenin kökenini gösterir.`
