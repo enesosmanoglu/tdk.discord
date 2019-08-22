@@ -1,6 +1,6 @@
 {
   "name": "tdk.discord",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "TDK Discord Bot",
   "main": "index.js",
   "author": "Enes Osmanoğlu",
